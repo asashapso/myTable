@@ -1,0 +1,25 @@
+#tsla
+{background-color: rgb(131, 52, 52);
+    margin: auto;
+    text-align: center;
+    width: 4cm;
+    border-radius: 10px;
+    font-size:30px;
+}
+.f{
+    text-align: center;
+}
+#ABAT
+{
+text-align: center;
+}
+.T
+{
+width: 900px ;
+height: 450px;
+text-align: center;
+border-color: rgb(51, 51, 87);
+border-radius: 50px;
+border:solid rgb(175, 33, 33)
+
+}
