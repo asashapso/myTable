@@ -1,0 +1,15 @@
+#asa{
+    background-color: rgb(197, 82, 82);
+    margin: auto;
+    text-align: center;
+     width:400px;
+     height:13cm;
+     border:solid red; 
+     border-radius:60px;
+}
+.f{
+    width: 200px;
+    height: 200px;
+ 
+    
+}
