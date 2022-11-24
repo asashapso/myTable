@@ -1,0 +1,52 @@
+.table1,
+.table1 th,
+ .table1 td{
+   border: solid 2px black;
+   border-collapse: collapse;
+   width: 100%; 
+   table-layout: fixed;
+   text-align: center;
+   background-color:grey;
+ }
+ .table1 :hover {background-color: blue;}
+ 
+ .th4 {    
+  font-size: 60px;
+  color:rgb(215, 0, 243);
+  border-radius: 50px;
+  text-align: center;
+  text-decoration: underline;
+  
+ }
+
+ .table2,
+  .table2 th,
+   .table2 td{
+   border: solid 2px; 
+   width: 100%; 
+   table-layout: fixed;
+   text-align: center;
+   background-color:rgb(44, 131, 87);
+ }
+.table2 :hover {background-color: red;}
+
+
+ .th3 {    
+  font-size: 60px;
+  color:rgb(231, 9, 9);
+  border-radius: 50px;
+  text-align: center;
+  text-decoration: underline;
+ }
+
+
+
+
+
+ 
+
+ 
+
+
+ 
+
